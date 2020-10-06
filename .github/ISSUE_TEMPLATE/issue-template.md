@@ -23,4 +23,4 @@ Self-Explanatory.  Ideally, bullet or numbered list.
 Platform, machine specs, anything else you think might be relevant.
 
 # Labels (delete this section once you've selected labels)
-Your issue must contain three labels from specific categories.  Please check here for an explanation: https://github.com/mdfbaam/ORNL-Slicer-2-Issue-Tracker/wiki/Submitting-Issues
+Your issue must contain three labels from specific categories.  For an explanation, please check out the Wiki using the navigation above.  Or, you can use the link here: https://github.com/mdfbaam/ORNL-Slicer-2-Issue-Tracker/wiki
